@@ -1,0 +1,14 @@
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\bin\Debug\Alytalo_Uusi.exe.config
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.csprojResolveAssemblyReference.cache
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\MainWindow.g.cs
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\App.g.cs
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi_MarkupCompile.cache
+c:\users\ivota\documents\visual studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi_MarkupCompile.lref
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\bin\Debug\Alytalo_Uusi.exe
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\bin\Debug\Alytalo_Uusi.pdb
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\MainWindow.baml
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.g.resources
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.Properties.Resources.resources
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.csproj.GenerateResource.Cache
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.exe
+C:\Users\ivota\Documents\Visual Studio 2015\Projects\Alytalo_Uusi\Alytalo_Uusi\obj\Debug\Alytalo_Uusi.pdb
